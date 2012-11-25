@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Links Saver", "Links Saver\Links Saver.csproj", "{3C5F1498-12EC-4BC2-BF00-31A4B658BAE9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tLinker x64", "tLinker x64\tLinker x64.vdproj", "{05F82579-C70A-4E05-8CFE-152EB227C38D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tLinker x32", "tLinker x32\tLinker x32.vdproj", "{1D787702-4CC1-44F5-8015-78D7263A1C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C5F1498-12EC-4BC2-BF00-31A4B658BAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5F1498-12EC-4BC2-BF00-31A4B658BAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5F1498-12EC-4BC2-BF00-31A4B658BAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5F1498-12EC-4BC2-BF00-31A4B658BAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F82579-C70A-4E05-8CFE-152EB227C38D}.Debug|Any CPU.ActiveCfg = Debug
+		{05F82579-C70A-4E05-8CFE-152EB227C38D}.Release|Any CPU.ActiveCfg = Release
+		{1D787702-4CC1-44F5-8015-78D7263A1C80}.Debug|Any CPU.ActiveCfg = Debug
+		{1D787702-4CC1-44F5-8015-78D7263A1C80}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
